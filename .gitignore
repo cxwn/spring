@@ -1,2 +1,5 @@
 # 项目排除路径
-/spring-anno/target/
+/spring-*/target/
+/spring-*/target/*
+/.idea
+/.idea/*
