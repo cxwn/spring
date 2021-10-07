@@ -20,6 +20,7 @@
         <module>spring-aop</module>
         <module>spring-mybatis-review</module>
         <module>spring-mybatis</module>
+        <module>spring-transaction</module>
     </modules>
 
     <properties>
