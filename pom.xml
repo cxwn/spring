@@ -17,6 +17,7 @@
         <module>spring-anno</module>
         <module>spring-app-config</module>
         <module>spring-proxy</module>
+        <module>spring-aop</module>
     </modules>
 
     <properties>
